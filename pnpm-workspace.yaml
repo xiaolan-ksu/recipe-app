@@ -1,0 +1,8 @@
+# pnpm 11 不再从 .npmrc 读 node-linker，得写在这里。
+# 扁平布局能让原生模块的源码路径短一大截：CMake 对对象文件路径有 250 字符上限，
+# 落在 node_modules/.pnpm 的超长路径下会构建失败。
+nodeLinker: hoisted
+
+# pnpm 默认会拦下刚发布不久的新包，这几个是自己确认过要用的
+minimumReleaseAgeExclude:
+  - expo-updates@57.0.26
