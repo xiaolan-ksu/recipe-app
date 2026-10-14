@@ -1,0 +1,42 @@
+{
+  "name": "recipe-app",
+  "description": "今天吃什么 - 家常菜谱 App",
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "dependencies": {
+    "@expo/metro-runtime": "~57.0.16",
+    "@expo/vector-icons": "^15.1.1",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.27",
+    "expo-blur": "~57.0.3",
+    "expo-constants": "~57.0.21",
+    "expo-file-system": "~57.0.7",
+    "expo-image": "~57.0.5",
+    "expo-image-picker": "~57.0.20",
+    "expo-intent-launcher": "~57.0.1",
+    "expo-linear-gradient": "~57.0.2",
+    "expo-location": "~57.0.20",
+    "expo-status-bar": "~57.0.1",
+    "expo-updates": "~57.0.26",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.4",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "export:web": "expo export --platform web"
+  }
+}
