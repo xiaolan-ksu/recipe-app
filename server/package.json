@@ -1,0 +1,16 @@
+{
+  "name": "recipe-share-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "「今天吃什么」共享买菜清单 / 共享库存的后端",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
