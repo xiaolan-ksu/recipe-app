@@ -1,0 +1,5599 @@
+[
+  {
+    "sourceIndex": 1,
+    "name": "红烧肉",
+    "category": "猪肉类",
+    "costYuan": 25.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "冰糖",
+        "amount": 20,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "料酒",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "八角",
+        "amount": 2,
+        "unit": "个",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉切块焯水，油炒糖色",
+      "下肉翻炒上色，加调料和开水没过肉",
+      "小火炖40分钟，大火收汁"
+    ]
+  },
+  {
+    "sourceIndex": 2,
+    "name": "鱼香肉丝",
+    "category": "猪肉类",
+    "costYuan": 18.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "木耳",
+        "amount": 50,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0.5,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "泡椒",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鱼香汁",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "里脊切丝上浆滑熟，爆香豆瓣酱",
+      "下配菜翻炒",
+      "倒肉丝和鱼香汁翻炒均匀"
+    ]
+  },
+  {
+    "sourceIndex": 3,
+    "name": "回锅肉",
+    "category": "猪肉类",
+    "costYuan": 20.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青蒜",
+        "amount": 150,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1.5,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "甜面酱",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉煮至八分熟切片",
+      "少油煸至卷曲出油",
+      "下豆瓣酱姜蒜炒出红油，加蒜苗翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 4,
+    "name": "糖醋里脊",
+    "category": "猪肉类",
+    "costYuan": 22.0,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 4,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "面粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "里脊切条腌制",
+      "裹淀粉糊炸至金黄复炸",
+      "另锅调糖醋汁，下炸好的里脊翻匀"
+    ]
+  },
+  {
+    "sourceIndex": 5,
+    "name": "京酱肉丝",
+    "category": "猪肉类",
+    "costYuan": 18.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "豆皮",
+        "amount": 2,
+        "unit": "张",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "甜面酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "大葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "里脊切丝上浆滑熟",
+      "炒甜面酱加糖调稀，下肉丝裹匀",
+      "配豆皮和葱丝卷食"
+    ]
+  },
+  {
+    "sourceIndex": 6,
+    "name": "肉末茄子",
+    "category": "猪肉类",
+    "costYuan": 15.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": 2,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "猪肉末",
+        "amount": 100,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "茄子切条盐腌出水过油炸软",
+      "爆香肉末蒜末豆瓣酱",
+      "下茄子加调料烧入味"
+    ]
+  },
+  {
+    "sourceIndex": 7,
+    "name": "糖醋排骨",
+    "category": "猪肉类",
+    "costYuan": 35.0,
+    "minutes": 50,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 15,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白芝麻",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "排骨焯水，煎至表面微黄",
+      "加调料和开水小火炖30分钟",
+      "大火收汁撒芝麻"
+    ]
+  },
+  {
+    "sourceIndex": 8,
+    "name": "梅菜扣肉",
+    "category": "猪肉类",
+    "costYuan": 30.0,
+    "minutes": 90,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 400,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "梅干菜",
+        "amount": 100,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉煮后表皮抹老抽炸至上色",
+      "切片码碗，铺炒香的梅菜",
+      "蒸1小时倒扣"
+    ]
+  },
+  {
+    "sourceIndex": 9,
+    "name": "青椒肉丝",
+    "category": "猪肉类",
+    "costYuan": 15.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "里脊切丝上浆滑熟",
+      "爆香蒜片下青椒炒至断生",
+      "倒肉丝加调料翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 10,
+    "name": "蒜苔炒肉",
+    "category": "猪肉类",
+    "costYuan": 16.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "蒜苔",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "五花肉",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "蒜苔切段焯水，肉片煸出油",
+      "下蒜苔大火快炒，加调料调味"
+    ]
+  },
+  {
+    "sourceIndex": 11,
+    "name": "木须肉",
+    "category": "猪肉类",
+    "costYuan": 18.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 100,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "木耳",
+        "amount": 50,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "黄瓜",
+        "amount": 0.5,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡蛋炒熟盛出，滑熟肉丝",
+      "下木耳黄瓜翻炒，倒回鸡蛋调味"
+    ]
+  },
+  {
+    "sourceIndex": 12,
+    "name": "粉蒸肉",
+    "category": "猪肉类",
+    "costYuan": 25.0,
+    "minutes": 70,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 400,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "蒸肉米粉",
+        "amount": 100,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "腐乳汁",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉切片用调料腌制30分钟",
+      "裹米粉，铺在切块的土豆上",
+      "大火蒸50分钟"
+    ]
+  },
+  {
+    "sourceIndex": 13,
+    "name": "东坡肉",
+    "category": "猪肉类",
+    "costYuan": 35.0,
+    "minutes": 120,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 600,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "绍兴黄酒",
+        "amount": 500,
+        "unit": "毫升",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 4,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 30,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉焯水切方块，葱姜垫底",
+      "肉皮朝下码入砂锅",
+      "加酒和调料小火炖1.5小时"
+    ]
+  },
+  {
+    "sourceIndex": 14,
+    "name": "家常小炒肉",
+    "category": "猪肉类",
+    "costYuan": 18.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "猪肉",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "豆豉",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "肉切片用料酒生抽腌",
+      "热锅少油煸至微黄",
+      "下蒜片豆豉辣椒爆炒"
+    ]
+  },
+  {
+    "sourceIndex": 15,
+    "name": "洋葱炒肉",
+    "category": "猪肉类",
+    "costYuan": 14.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "猪肉",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "肉片滑熟盛出，下洋葱炒至透明出香",
+      "倒肉片加调料翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 16,
+    "name": "榨菜肉丝汤",
+    "category": "猪肉类",
+    "costYuan": 10.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 100,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "榨菜",
+        "amount": 80,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "水烧开下榨菜丝",
+      "肉丝用淀粉抓散下锅",
+      "煮沸后加调料撒香菜葱花"
+    ]
+  },
+  {
+    "sourceIndex": 17,
+    "name": "萝卜干炒腊肉",
+    "category": "猪肉类",
+    "costYuan": 20.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "腊肉",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "萝卜干",
+        "amount": 100,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "腊肉焯水切片煸出油",
+      "下萝卜干和干辣椒翻炒，加青蒜出锅"
+    ]
+  },
+  {
+    "sourceIndex": 18,
+    "name": "冬笋炒腊肉",
+    "category": "猪肉类",
+    "costYuan": 25.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "腊肉",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "冬笋",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "冬笋切片焯水去涩，腊肉煸出油",
+      "下冬笋同炒，加青蒜调味"
+    ]
+  },
+  {
+    "sourceIndex": 19,
+    "name": "蒜泥白肉",
+    "category": "猪肉类",
+    "costYuan": 18.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 250,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      },
+      {
+        "name": "黄瓜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "五花肉煮20分钟晾凉切薄片",
+      "卷黄瓜丝摆盘，浇蒜泥调料汁"
+    ]
+  },
+  {
+    "sourceIndex": 20,
+    "name": "咕噜肉",
+    "category": "猪肉类",
+    "costYuan": 22.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "菠萝",
+        "amount": 100,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 4,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "里脊切块裹糊炸两次，调糖醋汁下配菜和炸肉块翻匀"
+    ]
+  },
+  {
+    "sourceIndex": 21,
+    "name": "西红柿炖牛腩",
+    "category": "牛肉类",
+    "costYuan": 45.0,
+    "minutes": 90,
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "番茄",
+        "amount": 3,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛腩焯水，西红柿炒出沙",
+      "加牛肉和开水炖1小时",
+      "放土豆再炖20分钟"
+    ]
+  },
+  {
+    "sourceIndex": 22,
+    "name": "黑椒牛柳",
+    "category": "牛肉类",
+    "costYuan": 35.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 250,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "黑椒酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "牛柳用生抽淀粉油腌制",
+      "大火滑熟盛出，炒香洋葱青椒",
+      "倒牛柳加黑椒酱翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 23,
+    "name": "水煮牛肉",
+    "category": "牛肉类",
+    "costYuan": 35.0,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 250,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "豆芽",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "娃娃菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒花椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛肉切片上浆，豆芽焯水铺碗底",
+      "豆瓣酱炒出汤煮配菜滑入牛肉",
+      "浇辣椒花椒油"
+    ]
+  },
+  {
+    "sourceIndex": 24,
+    "name": "红烧牛肉面牛肉",
+    "category": "牛肉类",
+    "costYuan": 40.0,
+    "minutes": 120,
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 600,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 10,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "面条",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛腩焯水，炒糖色下牛肉",
+      "加调料和开水炖2小时至软烂",
+      "浇在煮好的面上"
+    ]
+  },
+  {
+    "sourceIndex": 25,
+    "name": "孜然牛肉",
+    "category": "牛肉类",
+    "costYuan": 28.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "孜然粉",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "牛肉切片腌制滑熟，下洋葱炒香",
+      "加牛肉孜然粉辣椒粉大火翻炒",
+      "撒香菜"
+    ]
+  },
+  {
+    "sourceIndex": 26,
+    "name": "青椒牛肉丝",
+    "category": "牛肉类",
+    "costYuan": 25.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小苏打",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "牛肉丝加小苏打淀粉水腌10分钟",
+      "滑熟后与青椒同炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 27,
+    "name": "土豆烧牛肉",
+    "category": "牛肉类",
+    "costYuan": 35.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛肉焯水炒香，加调料炖40分钟",
+      "下土豆胡萝卜再炖20分钟"
+    ]
+  },
+  {
+    "sourceIndex": 28,
+    "name": "杭椒牛柳",
+    "category": "牛肉类",
+    "costYuan": 32.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "牛柳腌制滑熟，杭椒煸出虎皮，加牛柳和黑椒酱翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 29,
+    "name": "萝卜牛腩汤",
+    "category": "牛肉类",
+    "costYuan": 40.0,
+    "minutes": 100,
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛腩焯水炖1小时",
+      "下萝卜块再炖30分钟",
+      "加盐白胡椒香菜"
+    ]
+  },
+  {
+    "sourceIndex": 30,
+    "name": "芹菜炒牛肉",
+    "category": "牛肉类",
+    "costYuan": 25.0,
+    "minutes": 18,
+    "ingredients": [
+      {
+        "name": "牛里脊",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "芹菜",
+        "amount": 250,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "牛肉丝腌制滑熟，芹菜段焯水，同炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 31,
+    "name": "宫保鸡丁",
+    "category": "鸡肉类",
+    "costYuan": 20.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 250,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "炸花生米",
+        "amount": 50,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 8,
+        "unit": "个",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "花椒",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "糖醋汁",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡丁腌制上浆滑熟，爆香干辣椒花椒",
+      "下鸡丁和宫保汁翻炒，最后加花生米"
+    ]
+  },
+  {
+    "sourceIndex": 32,
+    "name": "黄焖鸡",
+    "category": "鸡肉类",
+    "costYuan": 25.0,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 3,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "香菇",
+        "amount": 5,
+        "unit": "朵",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡腿斩块焯水，爆香姜菇",
+      "加鸡块调料和开水炖20分钟",
+      "放土豆青椒再炖10分钟"
+    ]
+  },
+  {
+    "sourceIndex": 33,
+    "name": "可乐鸡翅",
+    "category": "鸡肉类",
+    "costYuan": 22.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "鸡翅",
+        "amount": 10,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "可乐",
+        "amount": 330,
+        "unit": "毫升",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡翅两面划口焯水，煎至两面金黄",
+      "倒可乐和调料小火炖15分钟",
+      "大火收汁"
+    ]
+  },
+  {
+    "sourceIndex": 34,
+    "name": "白切鸡",
+    "category": "鸡肉类",
+    "costYuan": 30.0,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "name": "三黄鸡",
+        "amount": 600,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "姜葱蘸料",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "整鸡浸煮20分钟焖5分钟",
+      "捞出过冰水斩件，配姜葱汁"
+    ]
+  },
+  {
+    "sourceIndex": 35,
+    "name": "辣子鸡",
+    "category": "鸡肉类",
+    "costYuan": 28.0,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 1,
+        "unit": "把",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "花椒",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "白芝麻",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡丁腌制炸至酥脆",
+      "另锅小火炒香辣椒花椒",
+      "下鸡丁翻匀撒芝麻"
+    ]
+  },
+  {
+    "sourceIndex": 36,
+    "name": "大盘鸡",
+    "category": "鸡肉类",
+    "costYuan": 40.0,
+    "minutes": 50,
+    "ingredients": [
+      {
+        "name": "土鸡",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "面条",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡块焯水炒香",
+      "加豆瓣酱和开水炖20分钟",
+      "下土豆炖15分钟，放青椒，配面条"
+    ]
+  },
+  {
+    "sourceIndex": 37,
+    "name": "葱油鸡",
+    "category": "鸡肉类",
+    "costYuan": 28.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 2,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡腿蒸/浸煮20分钟斩件，铺葱丝浇热油，淋生抽"
+    ]
+  },
+  {
+    "sourceIndex": 38,
+    "name": "香菇滑鸡",
+    "category": "鸡肉类",
+    "costYuan": 25.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 250,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "香菇",
+        "amount": 6,
+        "unit": "朵",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "红枣",
+        "amount": 3,
+        "unit": "颗",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡肉切块用调料淀粉腌制",
+      "铺泡发香菇，蒸锅蒸20分钟"
+    ]
+  },
+  {
+    "sourceIndex": 39,
+    "name": "咖喱鸡",
+    "category": "鸡肉类",
+    "costYuan": 25.0,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0.5,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "咖喱块",
+        "amount": 0.5,
+        "unit": "盒",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡块煎香，下洋葱土豆胡萝卜翻炒",
+      "加水炖15分钟，放咖喱块融化收浓"
+    ]
+  },
+  {
+    "sourceIndex": 40,
+    "name": "手撕鸡",
+    "category": "鸡肉类",
+    "costYuan": 22.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 2,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "黄瓜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "花生碎",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白芝麻",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡腿煮熟晾凉撕成丝，拌黄瓜丝，浇调料汁撒花生芝麻"
+    ]
+  },
+  {
+    "sourceIndex": 41,
+    "name": "鸡公煲",
+    "category": "鸡肉类",
+    "costYuan": 30.0,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "name": "鸡肉",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "芹菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "火锅底料",
+        "amount": 3,
+        "unit": "块",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡块焯水，姜蒜爆香加火锅底料",
+      "下鸡块和调料炖15分钟",
+      "加配菜再煮"
+    ]
+  },
+  {
+    "sourceIndex": 42,
+    "name": "啤酒鸭/啤酒鸡",
+    "category": "鸡肉类",
+    "costYuan": 25.0,
+    "minutes": 45,
+    "ingredients": [
+      {
+        "name": "鸡块/鸭块",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "啤酒",
+        "amount": 1,
+        "unit": "罐",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡块煸炒出油，加姜蒜辣椒",
+      "倒啤酒和调料小火炖30分钟收汁"
+    ]
+  },
+  {
+    "sourceIndex": 43,
+    "name": "板栗烧鸡",
+    "category": "鸡肉类",
+    "costYuan": 32.0,
+    "minutes": 45,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 400,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "板栗",
+        "amount": 200,
+        "unit": "克",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡块焯水炒香，加调料炖15分钟",
+      "下板栗炖20分钟收汁"
+    ]
+  },
+  {
+    "sourceIndex": 44,
+    "name": "鸡丝凉面",
+    "category": "鸡肉类",
+    "costYuan": 18.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "面条",
+        "amount": 200,
+        "unit": "克",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "鸡胸肉",
+        "amount": 100,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "黄瓜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "芝麻酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡胸煮熟撕丝，面条煮熟过凉水，浇调料芝麻酱拌食"
+    ]
+  },
+  {
+    "sourceIndex": 45,
+    "name": "家常炖鸡",
+    "category": "鸡肉类",
+    "costYuan": 30.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "鸡肉",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "香菇",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "粉条",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡块炒香加调料炖30分钟",
+      "放蘑菇和泡软的粉条再炖15分钟"
+    ]
+  },
+  {
+    "sourceIndex": 46,
+    "name": "清蒸鲈鱼",
+    "category": "鱼虾海鲜",
+    "costYuan": 45.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "鲈鱼",
+        "amount": 600,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "葱姜丝",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒸鱼豉油",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鱼身划口铺葱姜，蒸锅大火蒸8分钟",
+      "倒掉腥水，铺新葱丝浇热油淋豉油"
+    ]
+  },
+  {
+    "sourceIndex": 47,
+    "name": "红烧鱼",
+    "category": "鱼虾海鲜",
+    "costYuan": 30.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "鲫鱼/草鱼",
+        "amount": 500,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "葱姜蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鱼煎至两面金黄",
+      "加调料和开水炖15分钟",
+      "大火收汁撒葱花"
+    ]
+  },
+  {
+    "sourceIndex": 48,
+    "name": "酸菜鱼",
+    "category": "鱼虾海鲜",
+    "costYuan": 40.0,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "name": "草鱼片/黑鱼片",
+        "amount": 400,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "酸菜",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "泡椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒花椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鱼骨酸菜炒香加水煮10分钟",
+      "下腌好的鱼片滑熟，浇辣椒花椒油"
+    ]
+  },
+  {
+    "sourceIndex": 49,
+    "name": "水煮鱼片",
+    "category": "鱼虾海鲜",
+    "costYuan": 38.0,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "name": "黑鱼片",
+        "amount": 400,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "豆芽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "娃娃菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒花椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鱼片用蛋清淀粉上浆",
+      "豆瓣酱炒汤煮配菜，滑入鱼片",
+      "浇麻辣油"
+    ]
+  },
+  {
+    "sourceIndex": 50,
+    "name": "油焖大虾",
+    "category": "鱼虾海鲜",
+    "costYuan": 45.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "大虾煎出红油",
+      "加姜葱番茄酱调料和少许水焖5分钟收汁"
+    ]
+  },
+  {
+    "sourceIndex": 51,
+    "name": "蒜蓉粉丝蒸虾",
+    "category": "鱼虾海鲜",
+    "costYuan": 35.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 10,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "粉丝",
+        "amount": 1,
+        "unit": "把",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "虾开背去线铺在粉丝上，铺蒜蓉酱",
+      "蒸锅蒸6分钟，浇热油淋豉油"
+    ]
+  },
+  {
+    "sourceIndex": 52,
+    "name": "白灼虾",
+    "category": "鱼虾海鲜",
+    "costYuan": 30.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蘸料",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "水加姜酒烧开，下虾煮2-3分钟至变红，蘸料食用"
+    ]
+  },
+  {
+    "sourceIndex": 53,
+    "name": "干煸豆角",
+    "category": "素菜/豆类",
+    "costYuan": 12.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "长豆角",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "猪肉末",
+        "amount": 50,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "豆角过油炸至起皱，爆香肉末蒜椒，下豆角翻炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 54,
+    "name": "香辣虾",
+    "category": "鱼虾海鲜",
+    "costYuan": 40.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "莲藕",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒花椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "火锅底料",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "芹菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "虾炸酥，配菜炸熟，爆香底料辣椒，下所有食材翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 55,
+    "name": "西红柿炒蛋",
+    "category": "素菜/蛋类",
+    "costYuan": 8.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "小勺",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡蛋炒熟盛出，西红柿炒出汤加糖盐",
+      "倒回鸡蛋翻炒撒葱"
+    ]
+  },
+  {
+    "sourceIndex": 56,
+    "name": "清蒸螃蟹",
+    "category": "鱼虾海鲜",
+    "costYuan": 60.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "闸蟹/梭子蟹",
+        "amount": 4,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香醋蘸料",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "蟹腹朝上蒸15分钟，姜醋汁蘸食"
+    ]
+  },
+  {
+    "sourceIndex": 57,
+    "name": "麻辣香锅",
+    "category": "鱼虾海鲜",
+    "costYuan": 50.0,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "莲藕",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "百叶",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "午餐肉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "西兰花",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "麻辣香锅底料",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "各类食材焯水或过油炸熟，爆香底料，下所有食材翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 58,
+    "name": "虾仁滑蛋",
+    "category": "鱼虾海鲜",
+    "costYuan": 25.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "牛奶",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "虾仁滑熟，鸡蛋加牛奶盐打散",
+      "小火倒入虾仁推炒至嫩熟"
+    ]
+  },
+  {
+    "sourceIndex": 59,
+    "name": "鱼头豆腐汤",
+    "category": "鱼虾海鲜",
+    "costYuan": 35.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "胖头鱼",
+        "amount": 0.5,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "嫩豆腐",
+        "amount": 1,
+        "unit": "盒",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鱼头煎至两面金黄",
+      "加开水大火煮15分钟至汤白",
+      "下豆腐煮5分钟调味"
+    ]
+  },
+  {
+    "sourceIndex": 60,
+    "name": "蒜蓉蒸扇贝",
+    "category": "鱼虾海鲜",
+    "costYuan": 35.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "扇贝",
+        "amount": 6,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "粉丝",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "扇贝铺粉丝和蒜蓉酱，蒸锅蒸5分钟，浇热油淋豉油"
+    ]
+  },
+  {
+    "sourceIndex": 61,
+    "name": "虾仁蒸蛋",
+    "category": "鱼虾海鲜",
+    "costYuan": 15.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "虾",
+        "amount": 6,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡蛋加温水过筛",
+      "蒸8分钟摆虾仁再蒸3分钟",
+      "淋豉油香油"
+    ]
+  },
+  {
+    "sourceIndex": 62,
+    "name": "地三鲜",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "土豆",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "食材切块分别过油，爆香蒜末",
+      "下食材加调料烧入味勾薄芡"
+    ]
+  },
+  {
+    "sourceIndex": 63,
+    "name": "干煸四季豆",
+    "category": "素菜类",
+    "costYuan": 12.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "四季豆",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "肉末",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "四季豆煸/炸至虎皮起皱，下蒜椒肉末翻炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 64,
+    "name": "醋溜白菜",
+    "category": "素菜类",
+    "costYuan": 6.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "白菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "白菜帮斜切片，爆香干辣椒蒜末",
+      "下白菜大火快炒，烹醋调味"
+    ]
+  },
+  {
+    "sourceIndex": 65,
+    "name": "蒜蓉西兰花",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "西兰花",
+        "amount": 1,
+        "unit": "颗",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "西兰花焯水过凉，爆香蒜末，下西兰花加盐蚝油快炒"
+    ]
+  },
+  {
+    "sourceIndex": 66,
+    "name": "手撕包菜",
+    "category": "素菜类",
+    "costYuan": 8.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "包菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "包菜手撕，热油爆香蒜椒，下包菜大火快炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 67,
+    "name": "麻婆豆腐",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "嫩豆腐",
+        "amount": 1,
+        "unit": "盒",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "猪肉末",
+        "amount": 50,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1.5,
+        "unit": "汤匙",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "花椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "豆腐焯水，豆瓣酱炒香加汤",
+      "下豆腐烧3分钟勾薄芡撒花椒粉"
+    ]
+  },
+  {
+    "sourceIndex": 68,
+    "name": "家常豆腐",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": 1,
+        "unit": "块",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "青蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "木耳",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "豆腐切片煎至两面金黄，加配菜和调料烧入味"
+    ]
+  },
+  {
+    "sourceIndex": 69,
+    "name": "蚝油生菜",
+    "category": "素菜类",
+    "costYuan": 6.0,
+    "minutes": 8,
+    "ingredients": [
+      {
+        "name": "生菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蚝油",
+        "amount": 1.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "生菜焯水摆盘，爆香蒜末加蚝油和水勾芡，浇在生菜上"
+    ]
+  },
+  {
+    "sourceIndex": 70,
+    "name": "清炒时蔬",
+    "category": "素菜类",
+    "costYuan": 8.0,
+    "minutes": 8,
+    "ingredients": [
+      {
+        "name": "青菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "热油爆蒜，下蔬菜大火快炒加盐出锅"
+    ]
+  },
+  {
+    "sourceIndex": 71,
+    "name": "虎皮青椒",
+    "category": "素菜类",
+    "costYuan": 7.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "青椒",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "青椒干煸至起虎皮，加蒜末和调好的碗汁翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 72,
+    "name": "香菇青菜",
+    "category": "素菜类",
+    "costYuan": 12.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "上海青/小油菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香菇",
+        "amount": 5,
+        "unit": "朵",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "青菜焯水摆盘，香菇切片炒香加蚝油勾芡，浇在菜上"
+    ]
+  },
+  {
+    "sourceIndex": 73,
+    "name": "炒三丝",
+    "category": "素菜类",
+    "costYuan": 8.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "土豆丝泡水去淀粉，爆香干辣椒，下三丝大火快炒烹醋"
+    ]
+  },
+  {
+    "sourceIndex": 74,
+    "name": "酸辣土豆丝",
+    "category": "素菜类",
+    "costYuan": 6.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "花椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "土豆丝泡水，热油爆花椒辣椒",
+      "下土豆丝大火快炒烹醋加盐"
+    ]
+  },
+  {
+    "sourceIndex": 75,
+    "name": "凉拌黄瓜",
+    "category": "素菜类",
+    "costYuan": 5.0,
+    "minutes": 8,
+    "ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": 2,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 1,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "黄瓜拍碎切段，加调料拌匀"
+    ]
+  },
+  {
+    "sourceIndex": 76,
+    "name": "拍黄瓜皮蛋",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "皮蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "黄瓜拍碎铺底，皮蛋切瓣摆上，浇调料汁"
+    ]
+  },
+  {
+    "sourceIndex": 77,
+    "name": "酸辣藕带/炒藕片",
+    "category": "素菜类",
+    "costYuan": 12.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "莲藕",
+        "amount": 1,
+        "unit": "节",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "藕切片泡水，爆香辣椒，下藕片快炒烹醋加糖盐"
+    ]
+  },
+  {
+    "sourceIndex": 78,
+    "name": "烧茄子",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": 2,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "青椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "蚝油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "茄子过油，爆香蒜末下茄子青椒加调料烧入味"
+    ]
+  },
+  {
+    "sourceIndex": 79,
+    "name": "凉拌木耳",
+    "category": "素菜类",
+    "costYuan": 8.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "木耳",
+        "amount": 30,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "木耳泡发焯水，加配菜和调料拌匀"
+    ]
+  },
+  {
+    "sourceIndex": 80,
+    "name": "芹菜香干",
+    "category": "素菜类",
+    "costYuan": 10.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "芹菜",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香干",
+        "amount": 4,
+        "unit": "块",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "红椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "芹菜切段焯水，香干切条，同炒调味"
+    ]
+  },
+  {
+    "sourceIndex": 81,
+    "name": "虎皮鸡蛋",
+    "category": "素菜/蛋类",
+    "costYuan": 10.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 6,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "冰糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "八角",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "鸡蛋煮熟剥壳，炸至虎皮色",
+      "加调料和水小火炖10分钟入味"
+    ]
+  },
+  {
+    "sourceIndex": 82,
+    "name": "韭菜炒鸡蛋",
+    "category": "素菜/蛋类",
+    "costYuan": 8.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "韭菜",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡蛋炒熟盛出，下韭菜快炒，倒回鸡蛋加盐"
+    ]
+  },
+  {
+    "sourceIndex": 83,
+    "name": "番茄龙利鱼",
+    "category": "鱼虾海鲜",
+    "costYuan": 28.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "龙利鱼柳",
+        "amount": 200,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "番茄",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "番茄酱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "洋葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "龙利鱼切块腌制，番茄炒出沙加汤",
+      "下鱼块煮5分钟调味"
+    ]
+  },
+  {
+    "sourceIndex": 84,
+    "name": "番茄鸡蛋汤",
+    "category": "汤品类",
+    "costYuan": 6.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "番茄炒出汤加水烧开，淋蛋液，加盐葱花香油"
+    ]
+  },
+  {
+    "sourceIndex": 85,
+    "name": "紫菜蛋花汤",
+    "category": "汤品类",
+    "costYuan": 4.0,
+    "minutes": 8,
+    "ingredients": [
+      {
+        "name": "紫菜",
+        "amount": 1,
+        "unit": "把",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "虾皮",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "水烧开放紫菜虾皮，淋蛋液调味撒葱"
+    ]
+  },
+  {
+    "sourceIndex": 86,
+    "name": "冬瓜排骨汤",
+    "category": "汤品类",
+    "costYuan": 25.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "冬瓜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "香菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "排骨焯水炖40分钟，下冬瓜块炖15分钟调味"
+    ]
+  },
+  {
+    "sourceIndex": 87,
+    "name": "玉米排骨汤",
+    "category": "汤品类",
+    "costYuan": 28.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "玉米",
+        "amount": 2,
+        "unit": "根",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "排骨焯水，加玉米胡萝卜炖50分钟，加盐"
+    ]
+  },
+  {
+    "sourceIndex": 88,
+    "name": "菌菇汤",
+    "category": "汤品类",
+    "costYuan": 15.0,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "name": "香菇",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "金针菇",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "海鲜菇",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "菌菇炒香加水煮10分钟，淋蛋液调味"
+    ]
+  },
+  {
+    "sourceIndex": 89,
+    "name": "丝瓜蛋汤",
+    "category": "汤品类",
+    "costYuan": 8.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "丝瓜",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "丝瓜炒软加水烧开，淋蛋液调味"
+    ]
+  },
+  {
+    "sourceIndex": 90,
+    "name": "豆腐羹",
+    "category": "汤品类",
+    "costYuan": 8.0,
+    "minutes": 12,
+    "ingredients": [
+      {
+        "name": "内酯豆腐",
+        "amount": 1,
+        "unit": "盒",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "香菇",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "火腿末",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "水开下豆腐丁和配料，勾薄芡淋蛋清，撒胡椒葱花香油"
+    ]
+  },
+  {
+    "sourceIndex": 91,
+    "name": "榨菜肉末汤",
+    "category": "汤品类",
+    "costYuan": 10.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "猪肉末",
+        "amount": 100,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "榨菜",
+        "amount": 50,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "肉末炒散加水烧开，下榨菜煮5分钟调味"
+    ]
+  },
+  {
+    "sourceIndex": 92,
+    "name": "山药排骨汤",
+    "category": "汤品类",
+    "costYuan": 28.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "山药",
+        "amount": 1,
+        "unit": "根",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "枸杞",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "排骨炖40分钟，下山药块炖15分钟，撒枸杞加盐"
+    ]
+  },
+  {
+    "sourceIndex": 93,
+    "name": "菠菜猪肝汤",
+    "category": "汤品类",
+    "costYuan": 18.0,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "name": "猪肝",
+        "amount": 150,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "菠菜",
+        "amount": 200,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "姜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "淀粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "猪肝切片用料酒淀粉腌制",
+      "水开下姜丝猪肝，撇沫下菠菜调味"
+    ]
+  },
+  {
+    "sourceIndex": 94,
+    "name": "凉拌木耳黄瓜",
+    "category": "凉菜类",
+    "costYuan": 8.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "木耳",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "黄瓜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "木耳焯水，黄瓜拍碎，加调料拌匀"
+    ]
+  },
+  {
+    "sourceIndex": 95,
+    "name": "口水鸡",
+    "category": "凉菜类",
+    "costYuan": 22.0,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 2,
+        "unit": "只",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "白芝麻",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      },
+      {
+        "name": "花椒粉",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡腿煮熟过冰水斩件，浇调料汁撒芝麻"
+    ]
+  },
+  {
+    "sourceIndex": 96,
+    "name": "皮蛋豆腐",
+    "category": "凉菜类",
+    "costYuan": 8.0,
+    "minutes": 8,
+    "ingredients": [
+      {
+        "name": "内酯豆腐",
+        "amount": 1,
+        "unit": "盒",
+        "group": "豆制品",
+        "staple": false
+      },
+      {
+        "name": "皮蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "辣椒油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "豆腐划块摆盘，皮蛋切瓣铺上，浇调料撒葱花"
+    ]
+  },
+  {
+    "sourceIndex": 97,
+    "name": "凉拌土豆丝",
+    "category": "凉菜类",
+    "costYuan": 5.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "干辣椒",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      },
+      {
+        "name": "蒜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "土豆丝焯水过凉，加调料拌匀"
+    ]
+  },
+  {
+    "sourceIndex": 98,
+    "name": "糖醋藕片",
+    "category": "凉菜类",
+    "costYuan": 8.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "莲藕",
+        "amount": 1,
+        "unit": "节",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "醋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "枸杞",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "藕切片焯水过凉，用糖醋水泡10分钟摆盘"
+    ]
+  },
+  {
+    "sourceIndex": 99,
+    "name": "蛋炒饭",
+    "category": "主食类",
+    "costYuan": 6.0,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "name": "米饭",
+        "amount": 1,
+        "unit": "碗",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "鸡蛋炒散，下米饭炒散，加盐葱花翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 100,
+    "name": "扬州炒饭",
+    "category": "主食类",
+    "costYuan": 12.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "米饭",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "火腿丁",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "虾",
+        "amount": 0,
+        "unit": "适量",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青豆",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "玉米",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "配料炒熟，下米饭和鸡蛋，加盐葱花翻炒"
+    ]
+  },
+  {
+    "sourceIndex": 101,
+    "name": "西红柿鸡蛋面",
+    "category": "主食类",
+    "costYuan": 8.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "面条",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "番茄",
+        "amount": 1,
+        "unit": "个",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "青菜",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "小葱",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      }
+    ],
+    "steps": [
+      "炒好西红柿鸡蛋卤，煮面和青菜，浇卤食用"
+    ]
+  },
+  {
+    "sourceIndex": 102,
+    "name": "葱油拌面",
+    "category": "主食类",
+    "costYuan": 6.0,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "name": "面条",
+        "amount": 0,
+        "unit": "适量",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "小葱",
+        "amount": 1,
+        "unit": "把",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "汤匙",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "白糖",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "葱油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "小葱炸葱油，加调料煮开成酱汁，拌面食用"
+    ]
+  },
+  {
+    "sourceIndex": 103,
+    "name": "饺子(猪肉白菜)",
+    "category": "主食类",
+    "costYuan": 25.0,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "name": "饺子皮",
+        "amount": 500,
+        "unit": "克",
+        "group": "主食",
+        "staple": false
+      },
+      {
+        "name": "猪肉末",
+        "amount": 300,
+        "unit": "克",
+        "group": "肉禽蛋",
+        "staple": false
+      },
+      {
+        "name": "白菜",
+        "amount": 300,
+        "unit": "克",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "葱姜水",
+        "amount": 0,
+        "unit": "适量",
+        "group": "蔬菜",
+        "staple": false
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      },
+      {
+        "name": "香油",
+        "amount": 0,
+        "unit": "适量",
+        "group": "调味",
+        "staple": true
+      }
+    ],
+    "steps": [
+      "白菜剁碎挤水，与肉末调料拌匀，包饺子煮熟"
+    ]
+  }
+]
