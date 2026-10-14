@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "今天吃什么",
+    "slug": "recipe-app",
+    "version": "9.1.5",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "primaryColor": "#E2553C",
+    "newArchEnabled": true,
+    "runtimeVersion": "9.1.2",
+    "updates": {
+      "url": "http://YOUR_SERVER_IP:8080/updates",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FBF6EF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codex.recipeapp"
+    },
+    "android": {
+      "package": "com.codex.recipeapp",
+      "versionCode": 90105,
+      "permissions": [
+        "android.permission.REQUEST_INSTALL_PACKAGES"
+      ],
+      "adaptiveIcon": {
+        "backgroundColor": "#FBF6EF",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-image",
+      "./plugins/withCleartextTraffic",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "「今天吃什么」需要用位置来显示你所在的城市，地址只保存在这台手机上。"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "「今天吃什么」需要读取相册，好让你给自己加的菜配图，或者换一张头像。",
+          "cameraPermission": "「今天吃什么」需要用相机，好让你给菜或者头像拍一张照片。",
+          "microphonePermission": false
+        }
+      ]
+    ]
+  }
+}
